@@ -45,7 +45,7 @@ La variable JSONFinal contiene todos nuestros departamentos y ciudades.
 Puede cargar el JSON mediante una solicitud Http de tipo _GET_ directamente sobre el repositorio, para esto use:
 
 ```
-https://raw.githubusercontent.com/marcovega/colombia-json/master/colombia.min.json
+https://raw.githubusercontent.com/JunniorRavelo/colombia-json/master/colombia.min.json
 ```
 
 ### Uso en Google Sheets con petición _HTTP_
